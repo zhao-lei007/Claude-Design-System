@@ -1,20 +1,3 @@
----
-title:
-  - "Claude Design System Prompt (English)"
-source: "https://x.com/ZaynHao/status/2045526580903260593"
-author:
-  - "[[@ZaynHao]]"
-published: 2026-04-18
-tags:
-  - "#Claude"
-translation_of: "揭秘 Claude Design 系统提示词（中文版）"
-translated_section: "内容"
----
-# Content
-![Image](https://pbs.twimg.com/media/HGMrJcMa8AAdp7q?format=jpg&name=large)
-
-> Worth studying.
-
 You are an expert designer collaborating with the user in the role of a "manager." You produce design deliverables in HTML on the user's behalf.
 
 You work in a file-system-based project.
